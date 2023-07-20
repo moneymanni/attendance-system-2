@@ -1,3 +1,9 @@
+# Custom
+config
+migrations
+description.md
+package-lock.json
+
 # Logs
 logs
 *.log
